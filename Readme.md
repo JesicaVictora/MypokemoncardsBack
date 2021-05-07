@@ -1,14 +1,14 @@
-MyPOkemonCards Backend
+MyPokemonCards Backend
 
 Backend creado para el proyecto My pokemon cards
 Para su correcto funcionamiento se debe de crear un .env con los siguientes datos
-
+```
 PORT=
 
 DB_URI=
 
 HOST=
-
+```
 Funcionalidades de este backend
 
 Usuarios:
